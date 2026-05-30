@@ -18,8 +18,14 @@ I'm **Mathys Aberkane**, a CS student at [**Epitech PGE**](https://www.epitech.e
 
 *Low-level systems, networking, and anything that breaks in interesting ways.*
 
-- 🎮 &nbsp;**Game engines & game dev** — from raw input loops to rendering
-- 🤖 &nbsp;**Machine learning** — with monetization in mind
+Two years of Epitech, the parts that stuck:
+
+- 🧱 &nbsp;**OOP** — pushed deep
+- 🧮 &nbsp;**Computer Numerical Analysis** — maths & algorithms
+- 🧵 &nbsp;**Concurrent Programming** — multithreading & multiprocessing
+- 🤖 &nbsp;**Machine Learning** & **Reinforcement Learning**
+- ⚙️ &nbsp;**DevOps**
+- 🚩 &nbsp;**Hackathons & CTF**
 
 <br/>
 
@@ -59,11 +65,9 @@ I'm **Mathys Aberkane**, a CS student at [**Epitech PGE**](https://www.epitech.e
 ## 📊 &nbsp;Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Vulcaaa/Vulcaaa/main/metrics.svg" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Vulcaaa&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://raw.githubusercontent.com/Vulcaaa/Vulcaaa/main/metrics.svg" width="470"/>
+  &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=Vulcaaa&theme=tokyonight&hide_border=true" height="195"/>
 </div>
 
 <br/>
