@@ -6,48 +6,43 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Vulcaaa&style=flat-square&color=00D4FF&label=profile+views"/>
-&nbsp;
-<a href="mailto:mathys.aberkane13@gmail.com"><img src="https://img.shields.io/badge/email-mathys.aberkane13@gmail.com-00D4FF?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="mailto:mathys.aberkane@epitech.eu"><img src="https://img.shields.io/badge/mathys.aberkane@epitech.eu-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
 <br/>
 
-## `$ whoami`
+## 🧑‍💻 &nbsp;About me
 
-```
-> Mathys Aberkane  ·  Student @ Epitech PGE  ·  Promo 2026  ·  Montpellier 🇫🇷
-> Low-level systems, networking, and anything that breaks in interesting ways.
-```
+I'm **Mathys Aberkane**, a CS student at [**Epitech PGE**](https://www.epitech.eu/) — Promo 2026, based in Montpellier 🇫🇷.
+
+*Low-level systems, networking, and anything that breaks in interesting ways.*
 
 - 🎮 &nbsp;**Game engines & game dev** — from raw input loops to rendering
-- 🔐 &nbsp;**CTF & cybersecurity** — reversing, exploitation, the rabbit holes
 - 🤖 &nbsp;**Machine learning** — with monetization in mind
-- 🐧 &nbsp;**Ubuntu-only** — at home in the terminal
 
 <br/>
 
 ## 🧰 &nbsp;Stack
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<div align="center">
 
-**Languages**
+### Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,haskell"/>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 
-</td>
-<td valign="top" width="50%">
+### Tools & Environment
 
-**Tools & Environment**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=git,docker,vim,linux,bash"/>
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
@@ -64,17 +59,11 @@
 ## 📊 &nbsp;Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vulcaaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vulcaaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" height="180"/>
+  <img src="https://raw.githubusercontent.com/Vulcaaa/Vulcaaa/main/metrics.svg" width="100%"/>
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Vulcaaa&theme=tokyonight&hide_border=true" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vulcaaa&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10"/>
 </div>
 
 <br/>
