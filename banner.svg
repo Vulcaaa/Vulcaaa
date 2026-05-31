@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 52" width="600" height="52">
+  <defs>
+    <filter id="glow" x="-10%" y="-60%" width="120%" height="220%">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <g font-family="'Courier New', Courier, monospace" font-size="18" font-weight="700"
+     text-anchor="middle" filter="url(#glow)">
+
+    <!-- phrase 1 -->
+    <text x="300" y="33" opacity="0">
+      <tspan fill="#3a5f82">&gt; </tspan><tspan fill="#58A6FF">low-level systems · networking</tspan>
+      <animate attributeName="opacity"
+        values="0;1;1;0;0"
+        keyTimes="0;0.05;0.24;0.30;1"
+        dur="13s" repeatCount="indefinite"/>
+    </text>
+
+    <!-- phrase 2 -->
+    <text x="300" y="33" opacity="0">
+      <tspan fill="#3a5f82">&gt; </tspan><tspan fill="#58A6FF">concurrent programming · CTF</tspan>
+      <animate attributeName="opacity"
+        values="0;0;1;1;0;0"
+        keyTimes="0;0.25;0.30;0.49;0.55;1"
+        dur="13s" repeatCount="indefinite"/>
+    </text>
+
+    <!-- phrase 3 -->
+    <text x="300" y="33" opacity="0">
+      <tspan fill="#3a5f82">&gt; </tspan><tspan fill="#58A6FF">reverse engineering · security</tspan>
+      <animate attributeName="opacity"
+        values="0;0;1;1;0;0"
+        keyTimes="0;0.50;0.55;0.74;0.80;1"
+        dur="13s" repeatCount="indefinite"/>
+    </text>
+
+    <!-- phrase 4 -->
+    <text x="300" y="33" opacity="0">
+      <tspan fill="#3a5f82">&gt; </tspan><tspan fill="#58A6FF">understand the machine</tspan>
+      <animate attributeName="opacity"
+        values="0;0;1;1;0"
+        keyTimes="0;0.75;0.80;0.94;1"
+        dur="13s" repeatCount="indefinite"/>
+    </text>
+
+  </g>
+
+  <!-- scanline sweep -->
+  <rect y="20" width="80" height="1.5" fill="#58A6FF" opacity="0.25" x="-80">
+    <animateTransform attributeName="transform" type="translate"
+      values="-80,0;680,0" dur="3.5s" begin="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
