@@ -4,15 +4,7 @@
 
 CS student @ [**Epitech PGE**](https://www.epitech.eu/) — Class of 2026 · Montpellier, France 🇫🇷
 
-```c
-struct developer mathys = {
-    .role     = "CS student @ Epitech PGE '26",
-    .focus    = "systems · networking · concurrency",
-    .learning = "reverse engineering & CTF",
-    .langs    = { "C", "C++", "Python" },
-    .driver   = "understanding how things work under the hood",
-};
-```
+I enjoy building software close to the machine and understanding how things work under the hood.
 
 <br>
 
@@ -47,9 +39,7 @@ struct developer mathys = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vulcaaa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vulcaaa&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" height="165"/>
+<img src="https://raw.githubusercontent.com/Vulcaaa/Vulcaaa/main/metrics.svg" width="480"/>
 
 </div>
 
@@ -57,7 +47,5 @@ struct developer mathys = {
 
 ## 📬 Connect
 
-[![Email](https://img.shields.io/badge/Email-mathys.aberkane@epitech.eu-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mathys.aberkane@epitech.eu)
-[![GitHub](https://img.shields.io/badge/GitHub-Vulcaaa-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vulcaaa)
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Vulcaaa&style=flat-square&color=58A6FF&label=Profile+views" align="right"/>
+[![Email](https://img.shields.io/badge/mathys.aberkane@epitech.eu-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mathys.aberkane@epitech.eu)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
