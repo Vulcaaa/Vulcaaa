@@ -29,8 +29,10 @@ I enjoy building software close to the machine and understanding how things work
 
 | Project | Description | Stack |
 |:---|:---|:---|
-| **Zappy** | Network-based multi-agent simulation — drones, resources, evolution | C++ · Networking |
+| **[Arcade](https://github.com/Vulcaaa/Arcade)** | Gaming platform with runtime-swappable graphics & game libraries | C++ · OOP |
 | **[Raytracer](https://github.com/Vulcaaa/Raytracer)** | CPU raytracer — OOP design, config-driven scenes, OpenMP | C++ · OOP |
+| **[NanoTekSpice](https://github.com/Vulcaaa/NanoTekSpice)** | Digital logic circuit simulator — gates, ICs, tri-state logic | C++ · OOP |
+| **Zappy** | Network-based multi-agent simulation — drones, resources, evolution | C++ · Networking |
 | **[Cvrie](https://github.com/Vulcaaa/Cvrie)** | X-ray body-part image classification + NLP — supervised & unsupervised ML | Python · ML |
 | **[Tardis](https://github.com/Vulcaaa/Tardis)** | Train delay prediction on real SNCF data + Streamlit dashboard | Python · ML |
 | **[My_Hunter](https://github.com/Vulcaaa/My_Hunter)** | Shooting game inspired by Duck Hunt | C · CSFML |
