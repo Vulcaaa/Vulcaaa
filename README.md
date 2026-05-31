@@ -1,88 +1,58 @@
-<div align="center">
+# Mathys Aberkane
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=200&section=header&text=Mathys%20Aberkane&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Building%20things%20that%20shouldn't%20exist%20yet&descAlignY=56&descSize=18"/>
+**Computer Science student at [Epitech PGE](https://www.epitech.eu/)** — Class of 2026, Montpellier, France 🇫🇷
 
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=C%2B%2B+%2F+C+%2F+Python+developer;Game+dev+%E2%80%A2+CTF+%2F+cybersec+%E2%80%A2+ML;Student+%40+Epitech+PGE+%E2%80%94+Promo+2026;Driven+by+building%2C+breaking%2C+and+understanding." /></a>
+Focused on low-level systems, networking, and concurrent programming. I enjoy building software close to the machine and understanding how things work under the hood.
 
-<br/>
+[![Email](https://img.shields.io/badge/Email-mathys.aberkane@epitech.eu-informational?style=flat-square&logo=gmail&logoColor=white)](mailto:mathys.aberkane@epitech.eu)
+[![GitHub](https://img.shields.io/badge/GitHub-Vulcaaa-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vulcaaa)
 
-<a href="mailto:mathys.aberkane@epitech.eu"><img src="https://img.shields.io/badge/mathys.aberkane@epitech.eu-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+---
 
-</div>
+## About
 
-<br/>
+Two years at Epitech, the areas I've invested in most:
 
-## 🧑‍💻 &nbsp;About me
+- **Object-Oriented Programming** — design and architecture
+- **Numerical Analysis** — mathematics & algorithms
+- **Concurrent Programming** — multithreading & multiprocessing
+- **Machine Learning** & Reinforcement Learning
+- **DevOps** — CI/CD, containerization
+- **Cybersecurity** — CTF & hackathons
 
-I'm **Mathys Aberkane**, a CS student at [**Epitech PGE**](https://www.epitech.eu/) — Promo 2026, based in Montpellier 🇫🇷.
+## Skills
 
-*Low-level systems, networking, and anything that breaks in interesting ways.*
+**Languages**
+&nbsp;
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
 
-Two years of Epitech, the parts that stuck:
+**Databases**
+&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-- 🧱 &nbsp;**OOP** — pushed deep
-- 🧮 &nbsp;**Computer Numerical Analysis** — maths & algorithms
-- 🧵 &nbsp;**Concurrent Programming** — multithreading & multiprocessing
-- 🤖 &nbsp;**Machine Learning** & **Reinforcement Learning**
-- ⚙️ &nbsp;**DevOps**
-- 🚩 &nbsp;**Hackathons & CTF**
+**Tools & Environment**
+&nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)
 
-<br/>
-
-## 🧰 &nbsp;Stack
-
-<div align="center">
-
-### Languages
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
-
-### Tools & Environment
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</div>
-
-<br/>
-
-## 🚀 &nbsp;Projects
+## Projects
 
 | Project | Description | Stack |
 |:---|:---|:---|
-| 🌐 **Zappy** | Network multi-agent simulation — drones, resources, evolution | `C++` · `networking` |
-| 🪨 **Stone Analysis** | Mathematical & algorithmic analysis engine | `C++` · `algo` |
-| 🦆 **[My_Hunter](https://github.com/Vulcaaa/My_Hunter)** | Shooting game inspired by Duck Hunt | `C` · `CSFML` |
+| **Zappy** | Network-based multi-agent simulation (drones, resources, evolution) | C++ · Networking |
+| **Stone Analysis** | Mathematical & algorithmic analysis engine | C++ · Algorithms |
+| **[My_Hunter](https://github.com/Vulcaaa/My_Hunter)** | Shooting game inspired by Duck Hunt | C · CSFML |
 
-<br/>
-
-## 📊 &nbsp;Stats
+## GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Vulcaaa/Vulcaaa/main/metrics.svg" width="470"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vulcaaa&show_icons=true&hide_border=true&theme=default&count_private=true" height="160"/>
   &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=Vulcaaa&theme=tokyonight&hide_border=true" height="195"/>
-</div>
-
-<br/>
-
-## 🐍 &nbsp;Contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vulcaaa/Vulcaaa/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vulcaaa/Vulcaaa/output/github-contribution-grid-snake.svg"/>
-    <img alt="snake animation" src="https://raw.githubusercontent.com/Vulcaaa/Vulcaaa/output/github-contribution-grid-snake.svg"/>
-  </picture>
-</div>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=120&section=footer"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vulcaaa&layout=compact&hide_border=true&theme=default" height="160"/>
 </div>
