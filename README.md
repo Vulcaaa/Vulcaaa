@@ -52,6 +52,6 @@ I enjoy building software close to the machine and understanding how things work
 
 ## 📬 Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-@vulcaaa-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vulcaaa)
+![Discord](https://img.shields.io/badge/Discord-vulcaaa-5865F2?style=flat-square&logo=discord&logoColor=white)
 [![Email](https://img.shields.io/badge/mathys.aberkane@epitech.eu-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mathys.aberkane@epitech.eu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathys-aberkane-a65733353/)
