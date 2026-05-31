@@ -29,12 +29,12 @@ I enjoy building software close to the machine and understanding how things work
 
 | Project | Description | Stack |
 |:---|:---|:---|
-| **[Arcade](https://github.com/Vulcaaa/Arcade)** | Gaming platform with interchangeable graphics & games — runtime plugins & OOP design | C++ · OOP |
-| **[Raytracer](https://github.com/Vulcaaa/Raytracer)** | CPU raytracer for 3D scenes & fractals — OOP, plugins & multithreading | C++ · OOP |
-| **[NanoTekSpice](https://github.com/Vulcaaa/NanoTekSpice)** | Digital logic circuit simulator — components, tri-state logic & factory pattern | C++ · OOP |
-| **Zappy** | Networked multi-agent world simulation — client/server protocol & AI | C++ · Networking |
+| **[Arcade](https://github.com/Vulcaaa/Arcade)** | Gaming platform with interchangeable graphics & games — dynamic libraries, polymorphism | C++ · OOP |
+| **[Raytracer](https://github.com/Vulcaaa/Raytracer)** | CPU raytracer for 3D scenes & fractals — plugins, multithreading | C++ · OOP |
+| **[NanoTekSpice](https://github.com/Vulcaaa/NanoTekSpice)** | Digital logic circuit simulator — tri-state logic, factory pattern | C++ · OOP |
+| **Zappy** | Networked survival game driven by autonomous AI — networking, AI | C++ · Networking |
 | **[Cvrie](https://github.com/Vulcaaa/Cvrie)** | X-ray body-part image classification + NLP — supervised & unsupervised ML | Python · ML |
-| **[My_Hunter](https://github.com/Vulcaaa/My_Hunter)** | Duck Hunt-inspired shooting game — sprites, animation & game loop | C · CSFML |
+| **[My_Hunter](https://github.com/Vulcaaa/My_Hunter)** | Duck Hunt-inspired shooting game — graphics, animation | C · CSFML |
 
 <br>
 
