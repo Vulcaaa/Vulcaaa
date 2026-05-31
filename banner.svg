@@ -29,7 +29,7 @@
 
     <!-- phrase 3 -->
     <text x="300" y="33" opacity="0">
-      <tspan fill="#3a5f82">&gt; </tspan><tspan fill="#58A6FF">reverse engineering · security</tspan>
+      <tspan fill="#3a5f82">&gt; </tspan><tspan fill="#58A6FF">machine learning · deep learning</tspan>
       <animate attributeName="opacity"
         values="0;0;1;1;0;0"
         keyTimes="0;0.50;0.55;0.74;0.80;1"
