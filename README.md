@@ -39,7 +39,9 @@ I enjoy building software close to the machine and understanding how things work
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Vulcaaa/Vulcaaa/main/metrics.svg" width="480"/>
+<img src="https://github-readme-stats-vulcaaa-s-projects.vercel.app/api?username=Vulcaaa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats-vulcaaa-s-projects.vercel.app/api/top-langs/?username=Vulcaaa&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" height="165"/>
 
 </div>
 
