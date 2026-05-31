@@ -4,11 +4,9 @@
 
 <img src="https://raw.githubusercontent.com/Vulcaaa/Vulcaaa/main/banner.svg" alt="banner"/>
 
-CS student @ [**Epitech PGE**](https://www.epitech.eu/) — Class of 2026 · Montpellier, France 🇫🇷
+CS student @ [**@Epitech**](https://www.epitech.eu/) · Promo 2029 · France 🇫🇷
 
 I enjoy building software close to the machine and understanding how things work under the hood.
-
----
 
 ## 🧰 Stack
 
@@ -29,8 +27,6 @@ I enjoy building software close to the machine and understanding how things work
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
----
-
 ## 🚀 Some Projects
 
 | Project | Description |
@@ -42,15 +38,11 @@ I enjoy building software close to the machine and understanding how things work
 | **[Cvrie](https://github.com/Vulcaaa/Cvrie)** | AI for medical imaging: X-ray body-part classification + NLP — supervised & unsupervised ML |
 | **[My_Hunter](https://github.com/Vulcaaa/My_Hunter)** | Duck Hunt-inspired shooting game — graphics, animation |
 
----
-
 ## 📊 Stats
 
 <img src="https://github-readme-stats-vulcaaa-s-projects.vercel.app/api?username=Vulcaaa&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide=stars&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" height="165"/>
 &nbsp;
 <img src="https://github-readme-stats-vulcaaa-s-projects.vercel.app/api/top-langs/?username=Vulcaaa&layout=compact&langs_count=8&exclude_repo=github-readme-stats,Neura&hide=jupyter%20notebook&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" height="165"/>
-
----
 
 ## 📬 Connect
 
