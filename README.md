@@ -1,4 +1,4 @@
-# Mathys Aberkane &nbsp;·&nbsp; `@vulcaaa`
+# Mathys Aberkane
 
 <a href="#"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&width=600&lines=Low-level+systems+%26+networking;Concurrent+programming+%E2%80%94+threads+%26+processes;Reverse+engineering+%26+CTF;Building+to+understand+how+things+work" alt="typing banner"/></a>
 
@@ -52,5 +52,6 @@ I enjoy building software close to the machine and understanding how things work
 
 ## 📬 Connect
 
+[![GitHub](https://img.shields.io/badge/GitHub-@vulcaaa-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vulcaaa)
 [![Email](https://img.shields.io/badge/mathys.aberkane@epitech.eu-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mathys.aberkane@epitech.eu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathys-aberkane-a65733353/)
