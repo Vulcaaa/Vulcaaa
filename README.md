@@ -25,17 +25,16 @@ I enjoy building software close to the machine and understanding how things work
 
 <br>
 
-## 🚀 Top Projects
+## 🚀 Selected Projects
 
 | Project | Description | Stack |
 |:---|:---|:---|
-| **[Arcade](https://github.com/Vulcaaa/Arcade)** | Gaming platform with runtime-swappable graphics & game libraries | C++ · OOP |
-| **[Raytracer](https://github.com/Vulcaaa/Raytracer)** | CPU raytracer — OOP design, config-driven scenes, OpenMP | C++ · OOP |
-| **[NanoTekSpice](https://github.com/Vulcaaa/NanoTekSpice)** | Digital logic circuit simulator — gates, ICs, tri-state logic | C++ · OOP |
-| **Zappy** | Network-based multi-agent simulation — drones, resources, evolution | C++ · Networking |
+| **[Arcade](https://github.com/Vulcaaa/Arcade)** | Gaming platform with interchangeable graphics & games — runtime plugins & OOP design | C++ · OOP |
+| **[Raytracer](https://github.com/Vulcaaa/Raytracer)** | CPU raytracer for 3D scenes & fractals — OOP, plugins & multithreading | C++ · OOP |
+| **[NanoTekSpice](https://github.com/Vulcaaa/NanoTekSpice)** | Digital logic circuit simulator — components, tri-state logic & factory pattern | C++ · OOP |
+| **Zappy** | Networked multi-agent world simulation — client/server protocol & AI | C++ · Networking |
 | **[Cvrie](https://github.com/Vulcaaa/Cvrie)** | X-ray body-part image classification + NLP — supervised & unsupervised ML | Python · ML |
-| **[Tardis](https://github.com/Vulcaaa/Tardis)** | Train delay prediction on real SNCF data + Streamlit dashboard | Python · ML |
-| **[My_Hunter](https://github.com/Vulcaaa/My_Hunter)** | Shooting game inspired by Duck Hunt | C · CSFML |
+| **[My_Hunter](https://github.com/Vulcaaa/My_Hunter)** | Duck Hunt-inspired shooting game — sprites, animation & game loop | C · CSFML |
 
 <br>
 
