@@ -11,7 +11,7 @@
 
     <!-- phrase 1 -->
     <text x="300" y="33" opacity="0">
-      <tspan fill="#3a5f82">&gt; </tspan><tspan fill="#58A6FF">low-level systems · networking</tspan>
+      <tspan fill="#3a5f82">&gt; </tspan><tspan fill="#58A6FF">systems programmer</tspan>
       <animate attributeName="opacity"
         values="0;1;1;0;0"
         keyTimes="0;0.05;0.24;0.30;1"
@@ -20,7 +20,7 @@
 
     <!-- phrase 2 -->
     <text x="300" y="33" opacity="0">
-      <tspan fill="#3a5f82">&gt; </tspan><tspan fill="#58A6FF">concurrent programming · CTF</tspan>
+      <tspan fill="#3a5f82">&gt; </tspan><tspan fill="#58A6FF">C/C++ · Python · AI</tspan>
       <animate attributeName="opacity"
         values="0;0;1;1;0;0"
         keyTimes="0;0.25;0.30;0.49;0.55;1"
