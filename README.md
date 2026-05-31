@@ -35,11 +35,11 @@ I enjoy building software close to the machine and understanding how things work
 
 | Project | Description |
 |:---|:---|
-| **[Arcade](https://github.com/Vulcaaa/Arcade)** | Gaming platform with interchangeable graphics & games — dynamic libraries, polymorphism |
-| **[Raytracer](https://github.com/Vulcaaa/Raytracer)** | CPU raytracer for 3D scenes & fractals — plugins, multithreading |
-| **[NanoTekSpice](https://github.com/Vulcaaa/NanoTekSpice)** | Digital logic circuit simulator — tri-state logic, factory pattern |
-| **Zappy** | Networked survival game driven by autonomous AI — networking, AI |
 | **[Cvrie](https://github.com/Vulcaaa/Cvrie)** | AI for medical imaging: X-ray body-part classification + NLP — supervised & unsupervised ML |
+| **Zappy** | Networked survival game driven by autonomous AI — networking, AI |
+| **[Raytracer](https://github.com/Vulcaaa/Raytracer)** | CPU raytracer for 3D scenes & fractals — plugins, multithreading |
+| **[Arcade](https://github.com/Vulcaaa/Arcade)** | Gaming platform with interchangeable graphics & games — dynamic libraries, polymorphism |
+| **[NanoTekSpice](https://github.com/Vulcaaa/NanoTekSpice)** | Digital logic circuit simulator — tri-state logic, factory pattern |
 | **[My_Hunter](https://github.com/Vulcaaa/My_Hunter)** | Duck Hunt-inspired shooting game — graphics, animation |
 
 ---
