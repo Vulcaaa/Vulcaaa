@@ -50,4 +50,4 @@ I enjoy building software close to the machine and understanding how things work
 ## 📬 Connect
 
 [![Email](https://img.shields.io/badge/mathys.aberkane@epitech.eu-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mathys.aberkane@epitech.eu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathys-abr-a93a1a315/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathys-aberkane-a65733353/)
