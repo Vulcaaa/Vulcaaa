@@ -9,7 +9,7 @@ Focused on low-level systems, networking, and concurrent programming. I enjoy bu
 
 ---
 
-## About
+## 🧑‍💻 About
 
 Two years at Epitech, the areas I've invested in most:
 
@@ -20,28 +20,24 @@ Two years at Epitech, the areas I've invested in most:
 - **DevOps** — CI/CD, containerization
 - **Cybersecurity** — CTF & hackathons
 
-## Skills
+## 🧰 Skills
 
 **Languages**
 &nbsp;
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
-
-**Databases**
-&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Tools & Environment**
 &nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)
 
-## Projects
+## 🚀 Projects
 
 | Project | Description | Stack |
 |:---|:---|:---|
@@ -49,10 +45,8 @@ Two years at Epitech, the areas I've invested in most:
 | **Stone Analysis** | Mathematical & algorithmic analysis engine | C++ · Algorithms |
 | **[My_Hunter](https://github.com/Vulcaaa/My_Hunter)** | Shooting game inspired by Duck Hunt | C · CSFML |
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vulcaaa&show_icons=true&hide_border=true&theme=default&count_private=true" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vulcaaa&layout=compact&hide_border=true&theme=default" height="160"/>
+  <img src="https://raw.githubusercontent.com/Vulcaaa/Vulcaaa/main/metrics.svg" width="800"/>
 </div>
