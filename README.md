@@ -30,6 +30,8 @@ I enjoy building software close to the machine and understanding how things work
 | Project | Description | Stack |
 |:---|:---|:---|
 | **Zappy** | Network-based multi-agent simulation — drones, resources, evolution | C++ · Networking |
+| **[Raytracer](https://github.com/Vulcaaa/Raytracer)** | CPU raytracer — OOP design, config-driven scenes, OpenMP | C++ · OOP |
+| **[Tardis](https://github.com/Vulcaaa/Tardis)** | Train delay prediction on real SNCF data + Streamlit dashboard | Python · ML |
 | **Stone Analysis** | Mathematical & algorithmic analysis engine | C++ · Algorithms |
 | **[My_Hunter](https://github.com/Vulcaaa/My_Hunter)** | Shooting game inspired by Duck Hunt | C · CSFML |
 
