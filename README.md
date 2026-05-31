@@ -2,7 +2,7 @@
 
 # Mathys Aberkane
 
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&width=600&lines=Low-level+systems+%26+networking;Concurrent+programming+%E2%80%94+threads+%26+processes;Reverse+engineering+%26+CTF;Building+to+understand+how+things+work" alt="typing banner"/></a>
+<img src="https://raw.githubusercontent.com/Vulcaaa/Vulcaaa/main/banner.svg" alt="banner"/>
 
 CS student @ [**Epitech PGE**](https://www.epitech.eu/) — Class of 2026 · Montpellier, France 🇫🇷
 
