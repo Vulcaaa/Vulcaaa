@@ -36,7 +36,7 @@ I enjoy building software close to the machine and understanding how things work
 | Project | Description |
 |:---|:---|
 | **[Cvrie](https://github.com/Vulcaaa/Cvrie)** | AI for medical imaging: X-ray body-part classification + NLP — supervised & unsupervised ML |
-| **Zappy** | Networked survival game driven by autonomous AI — networking, AI |
+| **[Zappy](https://github.com/Vulcaaa/Zappy)** | Networked survival game driven by autonomous AI — networking, AI |
 | **[Raytracer](https://github.com/Vulcaaa/Raytracer)** | 3D renderer simulating light via raytracing — reflections, refractions, fractals |
 | **[Arcade](https://github.com/Vulcaaa/Arcade)** | Arcade cabinet simulation — interchangeable games & graphics backends at runtime |
 | **[NanoTekSpice](https://github.com/Vulcaaa/NanoTekSpice)** | Digital logic circuit simulator — tri-state logic, factory pattern |
